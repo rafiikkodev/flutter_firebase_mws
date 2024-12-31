@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82398540890",
+    "project_id": "fir-mws-a4247",
+    "storage_bucket": "fir-mws-a4247.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82398540890:android:6ad64dc28175a66072d463",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_mws"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCm2Oj7blG9caA-iaONbTZP66jPiybqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
